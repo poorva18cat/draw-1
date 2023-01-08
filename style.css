@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(233, 167, 178);
+}
+#score{
+    font-size: large;
+    margin: left;
+
+}
+#time{
+    font-size: large;
+    float: right;
+}
+#canvas{
+    font-style: italic;
+    color:white;
+    font-size: medium;
+}
